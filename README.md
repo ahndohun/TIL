@@ -9,8 +9,7 @@
 ## Reference Type 값을 저장한 주소값을 할당 (참조)
 - Object
 - Array
-- nction
-- gExp
+- Function
 
 
 ## Primitive Type이 메모리에 값을 담는 순서 (ex - var a = 1)
